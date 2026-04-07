@@ -52,3 +52,23 @@ Special thanks to the following projects and contributors whose resources and wo
 
 - **Pikafish** — for supporting the creation of evaluation and policy datasets through engine-based position analysis and move generation.  
   [Pikafish GitHub repository](https://github.com/official-pikafish/Pikafish)
+  ## Acknowledgements
+
+This project was developed with reference to several helpful resources, datasets, and artworks. Special thanks to:
+
+- **BOYOFANS** for providing Xiangqi game records that were useful for dataset reference and analysis.  
+  [OnlineXiangqi dataset on Kaggle](https://www.kaggle.com/datasets/boyofans/onlinexiangqi?resource=download)
+
+- **Code Monkey / Wukong Xiangqi** for reference material on the mailbox board representation and professional Chinese Chess game records.  
+  [Wukong Xiangqi GitHub repository](https://github.com/maksimKorzh/wukong-xiangqi)
+
+- **Pikafish** for enabling evaluation and policy dataset creation through engine analysis and move generation.  
+  [Pikafish GitHub repository](https://github.com/official-pikafish/Pikafish)
+
+- **Wikipedia user Wj654cj86** for providing the Xiangqi board image used as a visual reference in this project.  
+  [Xiangqi board SVG on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xiangqi_board.svg)
+
+- **Xiangqi.com** for providing the Chinese Chess piece artwork used in the project.  
+  [Xiangqi.com graphics](https://www.xiangqi.com/graphics)
+
+- **Google Gemini** for creating the background and button art used in the project UI.
