@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 8757d9a460de04afa879af96a4c9ff97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - piecePrefab: {instanceID: 0}
+  - piecesParent: {instanceID: 0}
+  - boardConfig: {instanceID: 0}
+  - redPawn: {fileID: 2093369163124522986, guid: 962236d49e12346e29035259daa3abf3, type: 3}
+  - redRook: {fileID: 363226177946465881, guid: 3f0e405643b8c4dfe931cf4e5bb370da, type: 3}
+  - redCannon: {fileID: 3554058395960634318, guid: ff9f880a30f49460e9d1c3d970d97d9a, type: 3}
+  - redAdvisor: {fileID: 3392417949237539769, guid: 71ed74284ce174ad68ac0e15ac1cfddb, type: 3}
+  - redElephant: {fileID: -3433454027167582338, guid: 9413b83da9d5e4dc9a417ea3228c623b, type: 3}
+  - redHorse: {fileID: 6923208221834281114, guid: 823e69e68116e48d0af81ad8190a5e0f, type: 3}
+  - redKing: {fileID: 5704045515666807800, guid: a8783a35f1b654e2d8a25ed2fc79da24, type: 3}
+  - blackPawn: {fileID: 2431841834758141802, guid: 3e2b213b9b7194b5fb291b61d3659c2a, type: 3}
+  - blackRook: {fileID: 6124209557496056909, guid: a893e60471ff54fa7b4e11159e5715eb, type: 3}
+  - blackCannon: {fileID: -7755582432273209417, guid: b547f21d23a65458e9c89015507ba2fd, type: 3}
+  - blackAdvisor: {fileID: 4032984953920167781, guid: c951fffc75070401880ecd5a631726eb, type: 3}
+  - blackElephant: {fileID: 3550993121910219243, guid: ea87c2886185c4c2eb1c019151edfb06, type: 3}
+  - blackHorse: {fileID: -5066041858124086686, guid: d33bfbd2942614e8385451571f0d6a9c, type: 3}
+  - blackKing: {fileID: 3489849438734363380, guid: 75eb5e69715e741298f54405102df6d1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

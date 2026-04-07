@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/MainGame.unity
+    guid: 1880ee8fac62a478586d4926dd183019
+  - enabled: 1
+    path: Assets/Experiment.unity
+    guid: a1ee7021d8b7146468ff4a3763e95634
+  - enabled: 1
+    path: Assets/ReplayList.unity
+    guid: 8c6e2812f18ab468bbe06f4accefd178
+  - enabled: 1
+    path: Assets/ExperimentSetup.unity
+    guid: 1cc186e8c51fe476f85677ae523bd68b
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 2f5cf10e085074b5394acd6f4a67fc4f
+  - enabled: 1
+    path: Assets/PlaySetup.unity
+    guid: cc261788daaf1416ca69652ca67f01fc
+  - enabled: 1
+    path: Assets/ReplayScene.unity
+    guid: 67fb78ea93d224689b54b07d29783f65
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
