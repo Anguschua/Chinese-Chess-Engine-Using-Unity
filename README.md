@@ -1,7 +1,5 @@
 # Chinese Chess Engine Using Unity
 
-# Chinese Chess Engine Using Unity
-
 A Xiangqi (Chinese Chess) project built in **Unity**, with supporting **Python tools** for dataset creation and preprocessing.
 
 This repository contains two main parts:
